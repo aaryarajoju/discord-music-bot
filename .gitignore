@@ -17,3 +17,5 @@ pids
 # Miscellaneous
 .tmp/
 .github/
+
+config.json
